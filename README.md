@@ -16,7 +16,16 @@ _____________________________________________________________________
 
 <p align="center"> 
  <a href="https://www.tensorflow.org/" >
-  <img align="center" alt="Tensor-Flow" width="40px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tensorflow/tensorflow-ar21.svg" />
+  <img align="center" alt="Tensor-Flow" width="60px" src="https://user-images.githubusercontent.com/88773998/156796559-8c7d1f6e-1ac4-4f6c-823a-620d9203c47d.svg" />
+  </a> &nbsp;&nbsp;
+ <a href="https://jupyter.org/" >
+  <img align="center" alt="jupyter-notebook" width="60px" src="https://user-images.githubusercontent.com/88773998/156796698-d177c5af-e127-409c-ad31-fbc26bb8de81.svg" />
+  </a> &nbsp;&nbsp;
+ <a href="https://numpy.org/" >
+  <img align="center" alt="numpy" width="60px" src="https://github.com/numpy/numpy/blob/master/branding/icons/primary/numpylogo.svg" />
+  </a> &nbsp;&nbsp;
+ <a href="https://pandas.pydata.org/" >
+  <img align="center" alt="numpy" width="60px" src="https://github.com/pandas-dev/pandas/blob/master/web/pandas/static/img/pandas.svg" />
   </a> &nbsp;&nbsp;
  </p>
   
