@@ -22,10 +22,10 @@ _____________________________________________________________________
   <img align="center" alt="jupyter-notebook" width="60px" src="https://user-images.githubusercontent.com/88773998/156796698-d177c5af-e127-409c-ad31-fbc26bb8de81.svg" />
   </a> &nbsp;&nbsp;
  <a href="https://numpy.org/" >
-  <img align="center" alt="numpy" width="60px" src="https://github.com/numpy/numpy/blob/master/branding/icons/primary/numpylogo.svg" />
+  <img align="center" alt="numpy" width="60px" src="https://user-images.githubusercontent.com/88773998/156798061-a14025b3-cb87-468e-b415-dc2dab2c9021.svg" />
   </a> &nbsp;&nbsp;
  <a href="https://pandas.pydata.org/" >
-  <img align="center" alt="numpy" width="60px" src="https://github.com/pandas-dev/pandas/blob/master/web/pandas/static/img/pandas.svg" />
+  <img align="center" alt="numpy" width="60px" src="https://user-images.githubusercontent.com/88773998/156798411-bcd37376-d9a9-4f55-b414-c695485be202.svg" />
   </a> &nbsp;&nbsp;
  </p>
   
@@ -41,7 +41,7 @@ _____________________________________________________________________
   <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
 &nbsp;
 
-## Let's Connect
+## Let's Connect 
 
 <p align="center">
   <a href="https://deepakdvallur.weebly.com/" >
@@ -51,6 +51,6 @@ _____________________________________________________________________
   <img align="center" alt="Deepak D | Gmail" width="40px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.facebook.com/deepakvallur.d/">
-    <img align="center" alt="Rahul Dhanola | Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+    <img align="center" alt="Deepak D| Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 </p>
